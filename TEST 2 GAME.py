@@ -62,7 +62,7 @@ h={ '3':'''q1) Simplify :150 ÷ (6 + 3 x 8) - 5
 
 
 a=list((h.keys()))
-print(a)
+#print(a)
 
 ind=0
 for k in h.values():
